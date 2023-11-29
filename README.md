@@ -27,6 +27,12 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-303030?style=flat-square&logo=Node.js)
 ![Git](https://img.shields.io/badge/-Git-3E2C00?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+
 
 
 
