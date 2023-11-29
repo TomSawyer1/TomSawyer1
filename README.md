@@ -1,7 +1,7 @@
 ### Hey 👋
 
 ### Qui suis-je ?
-- Je m'appelle ( nom et prenom ), et je suis actuellement Développeur Web .
+- Je m'appelle Spencer Thomas, et je suis actuellement Développeur Web .
 - 💬 Interrogez-moi sur tout ce qui concerne le développement en PHP, les bonnes pratiques...
 
 <!-- ![rick](https://github.com/ladthomas/ladthomas/assets/81809591/295665e5-1d6a-4fc9-a235-7175778f9c1f) -->
@@ -32,8 +32,8 @@
 
 
 ### ⚡ Fun fact:
-* J'écoute beaucoup de musiques
-* j'adore les mangas et les séries 
+* J'aime la musique
+* J'adore les mangas  
 
 <!--
 **ladthomas/ladthomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
