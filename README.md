@@ -1,4 +1,14 @@
-### Hey 👋
+<h1 align="center">Hi 👋, I'm El amrani Mohammed</h1>
+<h3 align="center">A passionate web developer from France at Paris</h3>
+
+- 📫 How to reach me **elamrani.mohammed95@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/myinstramdevbientot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="myinstramdevbientot" height="30" width="40" /></a>
+</p>
+
+<!-- ### Hey 👋
 
 ### Qui suis-je ?
 - Je m'appelle Spencer Thomas, et je suis actuellement Développeur Web .
@@ -40,7 +50,7 @@
 ### ⚡ Fun fact:
 * J'aime la musique
 * J'adore les mangas  
-
+-->
 <!--
 **ladthomas/ladthomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
