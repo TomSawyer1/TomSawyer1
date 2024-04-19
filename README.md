@@ -9,7 +9,7 @@
 </p>
 
 ### Dernières News
-- 🌱 Site avec une  [API](https://splendid-belekoy-9b964e.netlify.app/) .
+- 🌱 Site avec une  [API](https://thomas-film-tmdb.netlify.app/) .
 - 🕹️ Calculatrice en [JS](https://calculatric.netlify.app/) .
 - 🎬 Le parrain résume du film en [HTML & CSS](https://le-parrain.netlify.app/) .
 - 🕹️ Voyage en [JS](https://dans-ma-valise.netlify.app/) .
@@ -27,8 +27,6 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 
 ### ⚡ Fun fact:
 * J'aime la musique
