@@ -9,6 +9,7 @@
 </p>
 
 ### Dernières News
+- 🧑🏽‍💼 Mon Portfolio en cours [Portfolio](https://la-vie-de-thomas.netlify.app/). 
 - 🌱 Site avec une  [API](https://thomas-film-tmdb.netlify.app/) .
 - 🕹️ Calculatrice en [JS](https://calculatric.netlify.app/) .
 - 🎬 Le parrain résume du film en [HTML & CSS](https://le-parrain.netlify.app/) .
