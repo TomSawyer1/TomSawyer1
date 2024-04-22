@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, Je m'appelle Spencer Andrade Thomas</h1>
 <h3 align="center">je suis actuellement Développeur Web a Paris</h3>
 
-- 📫 How to reach me **thomas.andradeve@gmail.com**
+- 📫 Comment me joindre **thomas.andradeve@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connecter vous avec moi :</h3>
 <p align="left">
 <a href="https://www.instagram.com/7t_om/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagramtomsawyer1" height="30" width="40" /></a>
 </p>
