@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Je m'appelle Spencer Andrade Thomas</h1>
-<h3 align="center">je suis actuellement Développeur Web a Paris</h3>
+<h3 align="center">Je suis actuellement Développeur Web a Paris</h3>
 
 - 📫 Comment me joindre **thomas.andradeve@gmail.com**
 
