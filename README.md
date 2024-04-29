@@ -6,7 +6,7 @@
 <h3 align="left">Connecter vous avec moi :</h3>
 <p align="left">
 <a href="https://www.instagram.com/7t_om/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagramtomsawyer1" height="30" width="40" /></a>
- <a href="https://linkedin.com/in/thomas spencer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thomas spencer" height="30" width="40" /></a>
+ <a href="https://linkedin.com/in/thomas-spencer-301bb4240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thomas spencer" height="30" width="40" /></a>
 </p>
 
 ### Dernières News
